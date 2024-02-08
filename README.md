@@ -42,7 +42,7 @@ List the ready features here:
 - Awesome feature 3
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./resources/Nunebot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 

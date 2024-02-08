@@ -4,6 +4,8 @@
 > Pojects developed by Nunegal Consulting
 > Visit us [_here_](https://www.nunegal.com/web/). <!-- If you have the project hosted somewhere, include the link here. -->
 
+![Example screenshot](./resources/banner.png)
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)

@@ -27,7 +27,9 @@
 - Why did you undertake it?
 -->
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Welcome to Nunegal Consulting!
 
+We are experts in ICT services, software development and advice. We help our clients undertake technological projects.
 
 ## Technologies Used
 - .NET
@@ -39,9 +41,9 @@
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Experience in project management and outsourced services
+- Teamwork
+- Team management experience
 
 ## Screenshots
 ![Nunebot](./resources/Nunebot.png)
